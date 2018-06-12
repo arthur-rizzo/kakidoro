@@ -1,0 +1,35 @@
+.Footer {
+  display: inline-block;
+  background-color: #cac7c760;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "roboto";
+  padding: 7px;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.ShareRoot {
+  vertical-align: top;
+  display: inline-block;
+  margin-right: 30px;
+  text-align: center;
+}
+
+.ShareCount {
+  margin-top: 3px;
+  font-size: 12px;
+}
+
+.ShareButton {
+  cursor: pointer;
+}
+
+.ShareButton:hover:not(:active) {
+  opacity: 0.75;
+}
