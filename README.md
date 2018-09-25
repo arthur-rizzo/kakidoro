@@ -1,4 +1,4 @@
-A demo of this project can be found in http://rizzoburger.s3-website-sa-east-1.amazonaws.com/ 
+A demo of this project can be found in http://kakidoro.s3-website-sa-east-1.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
